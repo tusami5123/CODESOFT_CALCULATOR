@@ -1,0 +1,30 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-color{
+    background-color: black;
+}
+
+.mx-auto{
+    margin: auto
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.container{
+    width: 360px;
+    /* box-shadow: 5px 5px 5px black; */
+    border: 3px solid black;
+    border-radius: 30px;
+}
